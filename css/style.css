@@ -390,7 +390,15 @@ font-size: 40px;
     width: 200px; /* Cambia el ancho a 200 píxeles */
     height: 150px; /* Cambia el alto a 150 píxeles */
 }
-
+#imagen2{
+    max-width: 100%;
+    height: auto;
+}
+#miVideo2{
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
 
 .toggle-button.active {
     background-color: #ff0000; /* Color de fondo cuando está activo */
@@ -695,6 +703,7 @@ border: 1px solid #000;
     padding: 15px 10px;
     cursor: pointer;
 }
+
 
 .cart-empty{
     padding: 20px;
