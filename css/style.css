@@ -399,7 +399,10 @@ font-size: 40px;
     height: auto;
     border-radius: 5px;
 }
-
+#compra{
+    max-width: 100%;
+    height: auto;
+}
 .toggle-button.active {
     background-color: #ff0000; /* Color de fondo cuando está activo */
     color: #fff; /* Color del texto cuando está activo */
